@@ -3,6 +3,7 @@ public class November {
         System.out.println("Today it was cold");
         System.out.println("Yesterday there was blue moon");
         System.out.println("Golgelerin gucu adina");
+        System.out.println("Sacmalardan secmeler");
 
 
     }
